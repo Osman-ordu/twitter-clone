@@ -17,7 +17,7 @@ module.exports = {
           extraLight:"#E1E8ED",
           lightest:"#F5F8FA",
         },
-        black:"hsl: (210, 13%, 9%)"
+        black:"#000"
       }
     },
   },

@@ -2,7 +2,7 @@ import React from 'react'
 
 const Content = () => {
     return (
-        <main className='flex-1 bg-purple-200'>feed</main>
+        <main className='flex-1  border border-gray-lightest'>feed</main>
     )
 }
 
